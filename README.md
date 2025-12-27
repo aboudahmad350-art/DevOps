@@ -1,0 +1,2 @@
+# DevOps
+to learn vcs 
